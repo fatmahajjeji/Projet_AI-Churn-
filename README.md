@@ -157,7 +157,7 @@ The project includes comprehensive visualizations:
 
 ### 📷 Project Showcase
 
-![Project Infographic](linkedin_project_showcase_ai.png)
+![Project Infographic](project_showcase_ai.png)
 
 ---
 
