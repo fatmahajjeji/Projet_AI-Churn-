@@ -244,7 +244,7 @@ customer-churn-prediction/
 
 📧 Email: [fatmahajjeji9@gmail.com](mailto:fatmahajjeji9@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/fatma-hajjeji-29b1a8295](https://www.linkedin.com/in/fatma-hajjeji-29b1a8295)  
-💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+💻 GitHub: [github.com](https://github.com/fatmahajjeji)
 
 ---
 
