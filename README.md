@@ -1,12 +1,13 @@
-📊 Customer Churn Prediction – Machine Learning Project
-🔍 Project Overview
+## **📊 Customer Churn Prediction – Machine Learning Project**
+
+**🔍 Project Overview**
 
 This project focuses on predicting customer churn (whether a client will leave a telecom company) using supervised Machine Learning techniques.
 The goal is to build a robust, interpretable and well-validated ML pipeline, from raw data preprocessing to final model evaluation.
 
 The project was developed using Python and scikit-learn, following best practices to avoid data leakage and ensure reproducibility.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Master core Machine Learning techniques
 
@@ -18,7 +19,7 @@ Compare multiple ML models fairly
 
 Interpret results from both technical and business perspectives
 
-📂 Dataset Description
+**📂 Dataset Description**
 
 Name: Telco Customer Churn
 
@@ -30,7 +31,7 @@ Type: Supervised learning – Binary Classification
 
 Target variable: Churn (Yes / No)
 
-📌 Feature Types
+**📌 Feature Types**
 
 Numerical:
 
@@ -92,7 +93,7 @@ SelectKBest (ANOVA – f_classif)
 
 Reduced to 30 most informative features
 
-🤖 Machine Learning Models Used
+**🤖 Machine Learning Models Used**
 
 Seven different models were trained and compared:
 
@@ -110,7 +111,7 @@ Decision Tree
 
 Naive Bayes
 
-⚖️ Model Optimization
+**⚖️ Model Optimization**
 
 5-Fold Cross Validation
 
@@ -128,7 +129,7 @@ ROC-AUC
 
 class_weight='balanced' applied when relevant
 
-📈 Results
+**📈 Results**
 
 🏆 Best Model: Logistic Regression
 
@@ -137,7 +138,7 @@ F1-score	≈ 0.61
 ROC-AUC	≈ 0.78
 Accuracy	≈ 82%
 
-📌 Logistic Regression was selected for its:
+**📌 Logistic Regression was selected for its:**
 
 Strong balance between precision and recall
 
@@ -145,7 +146,7 @@ Interpretability
 
 Stability on unseen data
 
-📊 Visualizations
+**📊 Visualizations**
 
 The project includes:
 
@@ -157,7 +158,7 @@ Confusion matrix
 
 Final LinkedIn-style project infographic
 
-📷 Example:
+**📷 Example:**
 
 💡 Business Insights
 
@@ -169,7 +170,7 @@ Better targeting of at-risk customers
 
 Clear trade-off between recall and precision
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 Python
 
@@ -187,7 +188,8 @@ Seaborn
 
 Google Colab / Jupyter Notebook
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
+
 pip install -r requirements.txt
 
 
@@ -195,14 +197,14 @@ Then open the notebook:
 
 jupyter notebook
 
-📌 Author
+**📌 Author**
 
 Fatma Hajjeji
 📧 Email: fatmahajjeji9@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/fatma-hajjeji-29b1a8295
 
-⭐ Conclusion
+**⭐ Conclusion**
 
 This project demonstrates a complete and professional Machine Learning workflow, combining strong technical foundations with clear business interpretation.
 It reflects my ability to design, evaluate and explain ML solutions in a real-world context.
